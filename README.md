@@ -1,4 +1,4 @@
-# 🧠 Bio-Inspired Low-Light Motion Perception System
+# 🧠 Bio-Inspired Low-Light Motion Perception System (Vibe coding)
 *(Inspired by Canine Vision)*
 
 ## Overview
