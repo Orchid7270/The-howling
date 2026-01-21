@@ -16,7 +16,8 @@ This is an **engineering approximation**, not a biological replica.
 In low illumination:
  Human vision loses motion sensitivity
  Camera noise increases
- Weak but real motion signals are missed
+ Weak but real motion signals are missed.
+ Also dogs don't bite everyone.There is a        reason behind it.Nobody hurts someone     without a reason.So maybe we could figure out the reason behind dog attacks of we can simulate properly.
 
 **Goal:** Build a real-time system that amplifies weak motion cues while
 remaining computationally efficient and explainable.
