@@ -18,7 +18,9 @@ In low illumination:
  Camera noise increases
  Weak but real motion signals are missed.
  
-Also dogs don't bite everyone.There is a        reason behind it.Nobody hurts someone     without a reason.So maybe we could figure out the reason behind dog attacks if we can simulate properly.Probably a highly radio active compound can answer lots of questions (Assumptions).
+Assumptions:
+
+Also dogs don't bite everyone.There is a        reason behind it.Nobody hurts someone     without a reason.So maybe we could figure out the reason behind dog attacks if we can simulate properly.Probably a highly radio active compound can answer lots of questions(which is not poison) .
 
 
 **Goal:** Build a real-time system that amplifies weak motion cues while
